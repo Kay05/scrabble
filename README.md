@@ -1,6 +1,6 @@
-# Scrabble Trainer Setup Guide
+# Scrabble Setup Guide
 
-This guide will help you set up the Scrabble Trainer application on your machine, which consists of a Django backend and a Vue.js frontend.
+This guide will help you set up the Scrabble application on your machine, which consists of a Django backend and a Vue.js frontend.
 
 ## Pre-requisites
 
@@ -16,7 +16,7 @@ Before you start, ensure that Python and Node.js are installed on your system:
 1. **Open a Terminal or Command Prompt**.
 2. **Clone the project from GitHub** (replace `https://github.com/Kay05/scrabble.git` with the actual URL):
    ```bash
-   git clone https://github.com/Kay05/scrabble.git scrabble_trainer
+   git clone https://github.com/Kay05/scrabble.git scrabble
    cd scrabble
 
 3. **Create and activate a virtual environment:** 
