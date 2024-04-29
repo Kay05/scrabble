@@ -19,7 +19,7 @@ Before you start, ensure that Python and Node.js are installed on your system:
    git clone https://github.com/Kay05/scrabble.git scrabble
    cd scrabble
 
-3. **Create and activate a virtual environment:** 
+3. **Create and activate a virtual environment:** (depending on python version in venv you might need to use python3 instead of python in your commands) 
     Windows:
         ```bash
         python -m venv venv
