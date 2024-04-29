@@ -14,7 +14,7 @@ Before you start, ensure that Python and Node.js are installed on your system:
 ### Step 1: Download and Setup the Django Project
 
 1. **Open a Terminal or Command Prompt**.
-2. **Clone the project from GitHub** (replace `https://github.com/Kay05/scrabble.git` with the actual URL):
+2. **Clone the project from GitHub**:
    ```bash
    git clone https://github.com/Kay05/scrabble.git scrabble
    cd scrabble
